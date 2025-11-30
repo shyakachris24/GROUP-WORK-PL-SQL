@@ -1,0 +1,57 @@
+=== HOSPITAL MANAGEMENT SYSTEM TEST ===
+
+1. PREPARING PATIENT DATA FOR BULK LOAD...
+   Prepared 6 patient records
+
+2. BULK LOADING PATIENTS...
+Successfully loaded 0 patients
+
+3. DISPLAYING ALL PATIENTS...
+=== PATIENT INFORMATION ===
+ID  Name                 Age  Gender  Admitted
+---------------------------------------------
+101  John Smith           45   Male    NO
+102  Maria Garcia         32   Female  NO
+103  Robert Johnson       67   Male    YES
+104  Sarah Williams       28   Female  NO
+105  Michael Brown        53   Male    YES
+106  Emily Davis          39   Female  NO
+Total admitted patients: 2
+
+4. TESTING COUNT_ADMITTED FUNCTION...
+   Currently admitted patients: 2
+
+5. ADMITTING ADDITIONAL PATIENTS...
+Patient 101 admitted successfully
+Patient 104 admitted successfully
+Error: Patient with ID 999 not found
+
+6. VERIFYING CHANGES...
+   Admitted patients after updates: 4
+
+7. FINAL PATIENT STATUS...
+=== PATIENT INFORMATION ===
+ID  Name                 Age  Gender  Admitted
+---------------------------------------------
+101  John Smith           45   Male    YES
+102  Maria Garcia         32   Female  NO
+103  Robert Johnson       67   Male    YES
+104  Sarah Williams       28   Female  YES
+105  Michael Brown        53   Male    YES
+106  Emily Davis          39   Female  NO
+Total admitted patients: 4
+
+8. TESTING SHOW_ALL_PATIENTS WITH MANUAL CURSOR...
+   Patient List from Cursor:
+   - John Smith (ID: 101, Admitted: YES)
+   - Maria Garcia (ID: 102, Admitted: NO)
+   - Robert Johnson (ID: 103, Admitted: YES)
+   - Sarah Williams (ID: 104, Admitted: YES)
+   - Michael Brown (ID: 105, Admitted: YES)
+   - Emily Davis (ID: 106, Admitted: NO)
+
+=== TEST COMPLETED SUCCESSFULLY ===
+
+
+PL/SQL procedure successfully completed.
+

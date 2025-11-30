@@ -1,0 +1,40 @@
+=== HR EMPLOYEE MANAGEMENT SYSTEM TEST ===
+
+TEST 1: USER CONTEXT
+---------------------
+=== USER CONTEXT DEMONSTRATION ===
+Current user: SYSTEM
+
+Explanation:
+- USER returns the name of the current session user
+- The package uses AUTHID DEFINER (default) which means
+  it executes with the privileges of the package owner
+
+TEST 2: INDIVIDUAL NET SALARY CALCULATION
+-----------------------------------------
+Employee 1 net salary: $47500
+Custom calculation (50,000 at 5%): $47500
+Employee 2: Jane Smith | Gross: $75000 | Net: $71250
+
+TEST 3: DYNAMIC SALARY UPDATE
+-----------------------------
+Operation performed by: SYSTEM
+Salary updated for employee 1 from 50000 to 55000
+
+TEST 4: BULK SALARY REPORT
+---------------------------
+=== BULK SALARY REPORT ===
+Department: IT
+ID  Name                 Gross Salary  Tax Rate  Tax Amount  Net Salary
+----------------------------------------------------------------------
+2    Jane Smith           75000         5%        3750        71250
+1    John Doe             55000         5%        2750        52250
+----------------------------------------------------------------------
+TOTALS for 2 employees:
+Gross: 130000 | Tax: 6500 | Net: 123500
+
+=== ALL TESTS COMPLETED SUCCESSFULLY ===
+
+
+PL/SQL procedure successfully completed.
+
