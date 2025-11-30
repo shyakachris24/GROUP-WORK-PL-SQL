@@ -4,7 +4,7 @@ This project was completed by the following team members:
 - IRAKOZE TESSY MICK -Student ID: 27632
 - RUKUNDO ESPOIR -Student ID: 27678
 - NSHUTI MUGABO ARSENE -Student ID: 27668
-
+- MANZI ERIC KEVIN -Student ID: 27387
 # 🏥 PL/SQL Database Management Systems
 
 This repository contains comprehensive PL/SQL implementations for Hospital Management and HR Employee Management systems. Each system demonstrates advanced PL/SQL programming concepts and best practices.
