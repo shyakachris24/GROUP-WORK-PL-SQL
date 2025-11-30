@@ -19,7 +19,7 @@ A comprehensive human resources system with salary calculations, tax processing,
 
 ---
 
-## 🏥 Hospital Management System
+## 🏥 HOSPITAL MANAGEMENT SYSTEM
 
 ### 📋 Features
 - **Patient Management**: Bulk patient registration and updates
@@ -127,7 +127,7 @@ END;
 
 ---
 
-## 👥 HR Employee Management System
+## 👥 HR EMPLOYEE MANAGEMENT SYSTEM
 
 ### 📋 Features
 - **Salary Calculations**: RSSB tax computation and net salary
