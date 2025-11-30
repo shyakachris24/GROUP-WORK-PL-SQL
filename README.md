@@ -3,7 +3,7 @@ This project was completed by the following team members:
 - SHYAKA CHRIS — Student ID: 27889
 - IRAKOZE TESSY MICK -Student ID: 27632
 - RUKUNDO ESPOIR -Student ID: 27678
-- NSHUTI MUGABO ARSENE -Studnt ID: 27668
+- NSHUTI MUGABO ARSENE -Student ID: 27668
 
 # 🏥 PL/SQL Database Management Systems
 
