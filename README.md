@@ -1,6 +1,7 @@
 ## 👥 Group Members  
 This project was completed by the following team members:  
 - SHYAKA CHRIS — Student ID: 27889
+- IRAKOZE TESSY MICK -Student ID: 27632
 
 # 🏥 PL/SQL Database Management Systems
 
@@ -322,6 +323,7 @@ We welcome contributions! Please feel free to:
 ---
 
 ## 📄 License
+<img width="1536" height="1024" alt="ChatGPT Image Nov 30, 2025, 05_19_52 PM" src="https://github.com/user-attachments/assets/cc87a488-3238-44d8-95cc-48c8fc041738" />
 
 This project is open source and available under the [MIT License](LICENSE).
 
