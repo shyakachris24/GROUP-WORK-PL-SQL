@@ -332,7 +332,7 @@ We welcome contributions! Please feel free to:
 
 ## 📞 Support
 
-**For questions or issues:***
+**For questions or issues:**
 1. Check the examples in each system's test scripts
 2. Review the comprehensive comments in the code
 3. Open an issue in the GitHub repository
